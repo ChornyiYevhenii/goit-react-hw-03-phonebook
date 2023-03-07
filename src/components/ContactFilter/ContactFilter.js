@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import { FilterInput } from './ContactFilter.styled';
 
-
 export const ContactFilter = ({ onFilter, value }) => {
   return (
       <FilterInput
